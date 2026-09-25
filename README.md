@@ -40,6 +40,9 @@ ITDiagToolPy/
     └── printer_check.py           # spooler status, printer states (via PowerShell)
 ```
 
+<img width="1122" height="789" alt="image" src="https://github.com/user-attachments/assets/d76a715b-0e03-4c95-9b98-79c20c77c191" />
+
+
 ## What each module checks
 
 - **Network**: active adapters + IPv4, default gateway, ping to gateway,
